@@ -1,0 +1,8 @@
+src/App.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Experience.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Features.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Footer.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Hero.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Navbar.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/components/Packages.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Testimonials.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
