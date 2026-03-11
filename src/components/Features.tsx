@@ -1,4 +1,3 @@
-import React from 'react';
 import { BookOpen, Plane, Shield, Heart } from 'lucide-react';
 
 const Features = () => {
